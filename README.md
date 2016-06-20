@@ -9,6 +9,8 @@
 
 1.4 [Write a method to decide if two strings are anagrams or not](./code/1.4.cpp) # easy;anagrams :由颠倒字母顺序而构成的字 
 
+1.5 [Write a method to replace all spaces in a string with ‘%20’](./code/1.5.cpp) # easy
+
 ## 2 Linked Lists
 
 ## 3 Stacks and Queues
