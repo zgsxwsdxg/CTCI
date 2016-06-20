@@ -18,7 +18,7 @@
 1.8 [Assume you have a method isSubstring which checks if one word is a substring of another Given two strings, s1 and s2, write code to check if s2 is a rotation of s1 using only one call to isSubstring](./code/1.8.cpp) #easy
 
 ## 2 Linked Lists
-2.1 [Write code to remove duplicates from an unsorted linked list.How would you solve this problem if a temporary buffer is not allowed?]()
+2.1 [Write code to remove duplicates from an unsorted linked list.How would you solve this problem if a temporary buffer is not allowed?](./code/2.1.cpp) #ok
 
 2.2 [Implement an algorithm to find the nth to last element of a singly linked list](https://github.com/fishermanzhangzhen/leetcode/blob/master/Remove_Nth_Node_From_End_of_List.cpp) done
 
