@@ -11,7 +11,7 @@ typedef struct _LinkNode
 
 bool deleteNode(LinkList head, LinkNode& node){
     if (head == NULL) return false;
-    while (head->next && head->next->val != node.val){
+    while (head->next && head->next->val != node.val){ //head->next == &node
         head = head->next;
     }
     if (head->next == NULL) return false;
