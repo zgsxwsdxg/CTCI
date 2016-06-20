@@ -18,6 +18,15 @@
 1.8 [Assume you have a method isSubstring which checks if one word is a substring of another Given two strings, s1 and s2, write code to check if s2 is a rotation of s1 using only one call to isSubstring](./code/1.8.cpp) #easy
 
 ## 2 Linked Lists
+2.1 [Write code to remove duplicates from an unsorted linked list.How would you solve this problem if a temporary buffer is not allowed?]()
+
+2.2 [Implement an algorithm to find the nth to last element of a singly linked list](https://github.com/fishermanzhangzhen/leetcode/blob/master/Remove_Nth_Node_From_End_of_List.cpp) done
+
+2.3 [Implement an algorithm to delete a node in the middle of a single linked list, given only access to that node]()
+
+2.4 [You have two numbers represented by a linked list, where each node contains a single digit The digits are stored in reverse order, such that the 1’s digit is at the head off the list Write a function that adds the two numbers and returns the sum as a  linked list]()
+
+2.5 [Given a circular linked list, implement an algorithm which returns node at the beginning of the loop]()
 
 ## 3 Stacks and Queues
 
