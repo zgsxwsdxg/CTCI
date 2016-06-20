@@ -24,7 +24,7 @@
 
 2.3 [Implement an algorithm to delete a node in the middle of a single linked list, given only access to that node](./code/2.3.cpp) #ok
 
-2.4 [You have two numbers represented by a linked list, where each node contains a single digit The digits are stored in reverse order, such that the 1’s digit is at the head off the list Write a function that adds the two numbers and returns the sum as a  linked list]()
+2.4 [You have two numbers represented by a linked list, where each node contains a single digit The digits are stored in reverse order, such that the 1’s digit is at the head off the list Write a function that adds the two numbers and returns the sum as a  linked list](./code/2.4.cpp) easy
 
 2.5 [Given a circular linked list, implement an algorithm which returns node at the beginning of the loop]()
 
