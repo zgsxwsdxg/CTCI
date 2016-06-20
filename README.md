@@ -15,7 +15,8 @@
 
 1.7 [Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column is set to 0](https://github.com/fishermanzhangzhen/leetcode/blob/master/Set_Matrix_Zeroes.cpp) done
 
-1.8 [Assume you have a method isSubstring which checks if one word is a substring of another Given two strings, s1 and s2, write code to check if s2 is a rotation of s1 using only one call to isSubstring]()
+1.8 [Assume you have a method isSubstring which checks if one word is a substring of another Given two strings, s1 and s2, write code to check if s2 is a rotation of s1 using only one call to isSubstring](./code/1.8.cpp) #easy
+
 ## 2 Linked Lists
 
 ## 3 Stacks and Queues
