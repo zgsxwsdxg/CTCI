@@ -43,7 +43,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 3.5 [Implement a MyQueue class which implements a queue using two stacks](./code/3.5.cpp) # one more
 
-3.6 [Write a program to sort a stack in ascending order You should not make any assumptions about how the stack is implemented The following are the only functions that should be used to write this program: push | pop | peek | isEmpty]()
+3.6 [Write a program to sort a stack in ascending order You should not make any assumptions about how the stack is implemented The following are the only functions that should be used to write this program: push | pop | peek | isEmpty](./code/3.6.cpp) #one more
 
 ## 4 Trees and Graphs
 
