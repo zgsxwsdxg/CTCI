@@ -46,7 +46,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 3.6 [Write a program to sort a stack in ascending order You should not make any assumptions about how the stack is implemented The following are the only functions that should be used to write this program: push | pop | peek | isEmpty](./code/3.6.cpp) #one more
 
 ## 4 Trees and Graphs
-4.1 [Implement a function to check if a tree is balanced  For the purposes of this question, a balanced tree is defined to be a tree such that no two leaf nodes differ in distance from the root by more than one ]()
+4.1 [Implement a function to check if a tree is balanced  For the purposes of this question, a balanced tree is defined to be a tree such that no two leaf nodes differ in distance from the root by more than one ](https://github.com/fishermanzhangzhen/leetcode/blob/master/Balanced_Binary_Tree.cpp) ok
 
 4.2 [Given a directed graph, design an algorithm to find out whether there is a route between two nodes ]()
 
