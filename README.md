@@ -50,7 +50,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 4.2 [Given a directed graph, design an algorithm to find out whether there is a route between two nodes ]()
 
-4.3 [Given a sorted (increasing order) array, write an algorithm to create a binary tree with minimal height ]()
+4.3 [Given a sorted (increasing order) array, write an algorithm to create a binary tree with minimal height ](./code/4.3.cpp) easy
 
 4.4 [Given a binary search tree, design an algorithm which creates a linked list of all the nodes at each depth (i e , if you have a tree with depth D, you’ll have D linked lists) ]()
 
