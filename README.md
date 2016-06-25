@@ -54,7 +54,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 4.4 [Given a binary search tree, design an algorithm which creates a linked list of all the nodes at each depth (i e , if you have a tree with depth D, you’ll have D linked lists) ](https://github.com/fishermanzhangzhen/leetcode/blob/master/Binary_Tree_Level_Order_Traversal.cpp) ok.
 
-4.5 [Write an algorithm to find the ‘next’ node (i e , in-order successor) of a given node in a binary search tree where each node has a link to its parent ]()
+4.5 [Write an algorithm to find the ‘next’ node (i e , in-order successor) of a given node in a binary search tree where each node has a link to its parent ](./code/4.5.cpp) ok
 
 4.6 [Design an algorithm and write code to find the first common ancestor of two nodes in a binary tree  Avoid storing additional nodes in a data structure  NOTE: This is not necessarily a binary search tree ]()
 
