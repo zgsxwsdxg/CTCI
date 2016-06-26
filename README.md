@@ -104,6 +104,10 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 ## 8 Recursion
 8.1 [Write a method to generate the nth Fibonacci number ](./code/8.1.cpp) easy
 
+8.2 [Imagine a robot sitting on the upper left hand corner of an NxN grid  The robot can only move in two directions: right and down  How many possible paths are there for the robot?](https://github.com/fishermanzhangzhen/leetcode/blob/master/Unique_Paths.cpp) ok
+
+8.3 [Write a method that returns all subsets of a set ](./code/8.3.cpp) ok
+
 ## 9 Sorting and Searching
 
 ## 10 Mathematical
