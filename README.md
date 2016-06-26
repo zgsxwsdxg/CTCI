@@ -108,6 +108,8 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 8.3 [Write a method that returns all subsets of a set ](./code/8.3.cpp) ok
 
+8.4 [Write a method to compute all permutations of a string ](./code/8.4.cpp) ok
+
 ## 9 Sorting and Searching
 
 ## 10 Mathematical
