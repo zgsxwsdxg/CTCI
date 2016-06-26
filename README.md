@@ -56,7 +56,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 4.5 [Write an algorithm to find the ‘next’ node (i e , in-order successor) of a given node in a binary search tree where each node has a link to its parent ](./code/4.5.cpp) ok
 
-4.6 [Design an algorithm and write code to find the first common ancestor of two nodes in a binary tree  Avoid storing additional nodes in a data structure  NOTE: This is not necessarily a binary search tree ]()
+4.6 [Design an algorithm and write code to find the first common ancestor of two nodes in a binary tree  Avoid storing additional nodes in a data structure  NOTE: This is not necessarily a binary search tree ](./code/4.6.cpp) good question , one more
 
 4.7 [You have two very large binary trees: T1, with millions of nodes, and T2, with hundreds of nodes  Create an algorithm to decide if T2 is a subtree of T1 ]()
 
