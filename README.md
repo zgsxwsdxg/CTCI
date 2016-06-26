@@ -102,6 +102,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 7.10 [Describe the data structures and algorithms that you would use to implement a garbage collector in C++ ]()
 
 ## 8 Recursion
+8.1 [Write a method to generate the nth Fibonacci number ](./code/8.1.cpp) easy
 
 ## 9 Sorting and Searching
 
