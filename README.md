@@ -110,6 +110,14 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 8.4 [Write a method to compute all permutations of a string ](./code/8.4.cpp) ok
 
+8.5 [Implement an algorithm to print all valid (e g , properly opened and closed) combinations of n-pairs of parentheses ]()
+
+8.6 [Implement the “paint fill” function that one might see on many image editing programs  That is, given a screen (represented by a 2 dimensional array of Colors), a point, and a new color, fill in the surrounding area until you hit a border of that color ’]()
+
+8.7 [Given an infinite number of quarters (25 cents), dimes (10 cents), nickels (5 cents) and pennies (1 cent), write code to calculate the number of ways of representing n cents ]()
+
+8.8 [Write an algorithm to print all ways of arranging eight queens on a chess board so that none of them share the same row, column or diagonal ]()
+
 ## 9 Sorting and Searching
 
 ## 10 Mathematical
