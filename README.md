@@ -64,7 +64,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 
 ## 5 Bit Manipulation
-
+5.1 [You are given two 32-bit numbers, N and M, and two bit positions, i and j  Write a method to set all bits between i and j in N equal to M (e g , M becomes a substring of N located at i and starting at j) ](./code/5.1.cpp) ok
 ## 6 Brain Teases
 
 ## 7 Object Oriented Design
