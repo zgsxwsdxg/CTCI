@@ -123,13 +123,13 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 9.2 [Write a method to sort an array of strings so that all the anagrams are next to each other]()
 
-9.3 [Given a sorted array of n integers that has been rotated an unknown number of times, give an O(log n) algorithm that finds an element in the array You may assume that the array was originally sorted in increasing order]()
+9.3 [Given a sorted array of n integers that has been rotated an unknown number of times, give an O(log n) algorithm that finds an element in the array You may assume that the array was originally sorted in increasing order]() ##one more
 
-9.4 [If you have a 2 GB file with one string per line, which sorting algorithm would you use to sort the file and why?]
+9.4 [If you have a 2 GB file with one string per line, which sorting algorithm would you use to sort the file and why?]()
 
 9.5 [Given a sorted array of strings which is interspersed with empty strings, write a method to find the location of a given string]()
 
-9.6 [Given a matrix in which each row and each column is sorted, write a method to find an element in it]()
+9.6 [Given a matrix in which each row and each column is sorted, write a method to find an element in it](./code/9.6.cpp)easy
 
 9.7 [A circus is designing a tower routine consisting of people standing atop one another’s shoulders For practical and aesthetic reasons, each person must be both shorter and lighter than the person below him or her Given the heights and weights of each person in the circus, write a method to compute the largest possible number of people in such a tower]()
 
