@@ -129,11 +129,27 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 9.5 [Given a sorted array of strings which is interspersed with empty strings, write a method to find the location of a given string]()
 
-9.6 [Given a matrix in which each row and each column is sorted, write a method to find an element in it](./code/9.6.cpp)easy
+9.6 [Given a matrix in which each row and each column is sorted, write a method to find an element in it](./code/9.6.cpp) easy
 
 9.7 [A circus is designing a tower routine consisting of people standing atop one another’s shoulders For practical and aesthetic reasons, each person must be both shorter and lighter than the person below him or her Given the heights and weights of each person in the circus, write a method to compute the largest possible number of people in such a tower]()
 
 ## 10 Mathematical
+10.1 [You have a basketball hoop and someone says that you can play 1 of 2 games
+Game #1: You get one shot to make the hoop
+Game #2: You get three shots and you have to make 2 of 3 shots
+If p is the probability of making a particular shot, for which values of p should you pick one game or the other?]()
+
+10.2 [There are three ants on different vertices of a triangle What is the probability of collision (between any two or all of them) if they start walking on the sides of the triangle? Similarly find the probability of collision with ‘n’ ants on an ‘n’ vertex polygonygon]()
+
+10.3 [Given two lines on a Cartesian plane, determine whether the two lines would intersect]()
+
+10.4 [Write a method to implement \*,-, / operations You should use only the + operator]()
+
+10.5 [Given two squares on a two dimensional plane, find a line that would cut these two squares in half]()
+
+10.6 [Given a two dimensional graph with points on it, find a line which passes the most number of points]()
+
+10.7 [Design an algorithm to find the kth number such that the only prime factors are 3, 5, and 7](./code/10.7.cpp) ugly number
 
 ## 11 Testing
 
