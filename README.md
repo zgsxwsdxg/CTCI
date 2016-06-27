@@ -85,9 +85,9 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 7.2 [Imagine you have a call center with three levels of employees: fresher, technical lead (TL), product manager (PM)  There can be multiple employees, but only one TL or PM  An incoming telephone call must be allocated to a fresher who is free  If a fresher can’t handle the call, he or she must escalate the call to technical lead  If the TL is not free or not able to handle it, then the call should be escalated to PM  Design the classes and data structures for this problem  Implement a method getCallHandler() ]()
 
-7.3 [Design a musical juke box using object oriented principles_]()
+7.3 [Design a musical juke box using object oriented principles]()
 
-7.4 [Design a chess game using object oriented principles ]()
+7.4 [Design a chess game using object oriented principles]()
 
 7.5 [Design the data structures for an online book reader system ]()
 
@@ -119,6 +119,19 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 8.8 [Write an algorithm to print all ways of arranging eight queens on a chess board so that none of them share the same row, column or diagonal ]()
 
 ## 9 Sorting and Searching
+9.1 [You are given two sorted arrays, A and B, and A has a large enough buffer at the end to hold B Write a method to merge B into A in sorted order]()
+
+9.2 [Write a method to sort an array of strings so that all the anagrams are next to each other]()
+
+9.3 [Given a sorted array of n integers that has been rotated an unknown number of times, give an O(log n) algorithm that finds an element in the array You may assume that the array was originally sorted in increasing order]()
+
+9.4 [If you have a 2 GB file with one string per line, which sorting algorithm would you use to sort the file and why?]
+
+9.5 [Given a sorted array of strings which is interspersed with empty strings, write a method to find the location of a given string]()
+
+9.6 [Given a matrix in which each row and each column is sorted, write a method to find an element in it]()
+
+9.7 [A circus is designing a tower routine consisting of people standing atop one another’s shoulders For practical and aesthetic reasons, each person must be both shorter and lighter than the person below him or her Given the heights and weights of each person in the circus, write a method to compute the largest possible number of people in such a tower]()
 
 ## 10 Mathematical
 
