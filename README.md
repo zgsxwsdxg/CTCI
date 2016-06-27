@@ -66,7 +66,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 ## 5 Bit Manipulation
 5.1 [You are given two 32-bit numbers, N and M, and two bit positions, i and j  Write a method to set all bits between i and j in N equal to M (e g , M becomes a substring of N located at i and starting at j) ](./code/5.1.cpp) ok
 
-5.2 [Given a (decimal - e g  3 72) number that is passed in as a string, print the binary representation  If the number can not be represented accurately in binary, print “ERROR”]()  no idea
+5.2 [Given a (decimal - e.g.  3.72) number that is passed in as a string, print the binary representation  If the number can not be represented accurately in binary, print “ERROR”]()  no idea
 
 5.3 [Given an integer, print the next smallest and next largest number that have the same number of 1 bits in their binary representation ]()
 
