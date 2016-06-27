@@ -119,7 +119,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 8.8 [Write an algorithm to print all ways of arranging eight queens on a chess board so that none of them share the same row, column or diagonal ]()
 
 ## 9 Sorting and Searching
-9.1 [You are given two sorted arrays, A and B, and A has a large enough buffer at the end to hold B Write a method to merge B into A in sorted order]()
+9.1 [You are given two sorted arrays, A and B, and A has a large enough buffer at the end to hold B Write a method to merge B into A in sorted order](./code/9.1.cpp) easy
 
 9.2 [Write a method to sort an array of strings so that all the anagrams are next to each other]()
 
