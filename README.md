@@ -110,7 +110,7 @@ Write a program to move the disks from the first rod to the last using Stacks]()
 
 8.4 [Write a method to compute all permutations of a string ](./code/8.4.cpp) ok
 
-8.5 [Implement an algorithm to print all valid (e g , properly opened and closed) combinations of n-pairs of parentheses ]()
+8.5 [Implement an algorithm to print all valid (e g , properly opened and closed) combinations of n-pairs of parentheses ](./code/8.5.cpp) ok
 
 8.6 [Implement the “paint fill” function that one might see on many image editing programs  That is, given a screen (represented by a 2 dimensional array of Colors), a point, and a new color, fill in the surrounding area until you hit a border of that color ’]()
 
