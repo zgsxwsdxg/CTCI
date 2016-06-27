@@ -152,7 +152,34 @@ If p is the probability of making a particular shot, for which values of p shoul
 10.7 [Design an algorithm to find the kth number such that the only prime factors are 3, 5, and 7](./code/10.7.cpp) ugly number
 
 ## 11 Testing
+11.1 [Find the mistake(s) in the following code:
+1 unsigned int i;
+2 for (i = 100; i <= 0; --i)
+3 printf(“%d\n”, i);]()()
+
+11.2 [You are given the source to an application which crashes when it is run After running it ten times in a debugger, you find it never crashes in the same place The application is single threaded, and uses only the C standard library What programming errors could be causing this crash? How would you test each one?]()
+
+11.3 [We have the following method used in a chess game: boolean canMoveTo(int x, int y) x and y are the coordinates of the chess board and it returns whether or not the piece can move to that position Explain how you would test this method]()
+
+11.4 [How would you load test a webpage without using any test tools?]()
+
+11.5 [How would you test a pen?]()
+
+11.6 [How would you test an ATM in a distributed banking system?]()
 
 ## 12 System Design and Memory Limits
+12.1 [If you were integrating a feed of end of day stock price information (open, high, low, and closing price) for 5,000 companies, how would you do it? You are responsible for the development, rollout and ongoing monitoring and maintenance of the feed Describe the different methods you considered and why you would recommend your approach The feed is delivered once per trading day in a comma-separated format via an FTP site The feed will be used by 1000 daily users in a web application]()
 
+12.2 [How would you design the data structures for a very large social network (Facebook, LinkedIn, etc)? Describe how you would design an algorithm to show the connection, or path, between two people (e g , Me -> Bob -> Susan -> Jason -> You)]()
 
+12.3 [Given an input file with four billion integers, provide an algorithm to generate an integer which is not contained in the file Assume you have 1 GB of memory
+FOLLOW UP
+What if you have only 10 MB of memory?]()
+
+12.4 [You have an array with all the numbers from 1 to N, where N is at most 32,000 The array may have duplicate entries and you do not know what N is With only 4KB of memory available, how would you print all duplicate elements in the array?]()
+
+12.5 [If you were designing a web crawler, how would you avoid getting into infinite loops?]()
+
+12.6 [You have a billion urls, where each is a huge page How do you detect the duplicate documents?]()
+
+12.7 [You have to design a database that can store terabytes of data It should support efficient range queries How would you do it?]()
